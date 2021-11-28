@@ -1,0 +1,8 @@
+.allure/
+allure-results/
+.idea/
+target/
+*.log
+karglobal-assignment.iml
+.DS_Store
+.git
